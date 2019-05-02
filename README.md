@@ -2,7 +2,7 @@
 
 BingoGame is a *console game*, where you get a 9 numbers either manually or randomly chosen from 1-45. Then there are 30 different so called "winning numbers" raffled from 1-45 aswell. You can win in this game by having:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
   
 **Image**
 
